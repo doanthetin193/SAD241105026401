@@ -396,7 +396,7 @@
 
 ---
 
-# Các lớp phân tích hợp nhất
+# Hợp nhất các lớp phân tích 
 
 Từ kết quả phân tích, các lớp phân tích hợp nhất bao gồm:
 
